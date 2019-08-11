@@ -1,6 +1,9 @@
 # Resources for LGBTQ+ people working in technology
 This repository contains a list of resources for LGBTQ+ people working in the tech field. Pull requests are *very* welcome.
 
+![Logo](/misc/header.png)
+
+
 ## Table Of Contents
 1. [Online Communities](#online-communities)
 2. [Community Organizations](#community-organizations)
