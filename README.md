@@ -17,10 +17,10 @@ Contributions are welcome - submit a pull request to add or modify communities. 
 ## Online Communities
 Communities and resources that are primarily digital.
 
-| Organization | Summary |
-| --- | --- |
-| [lgbtq.technology](https://lgbtq.technology) | A Slack workspace for LGBTQ+ people. |
-| [Queer Coders](https://queercoders.com/) | An online forum and community for LGBTQ+ programmers. |
+| Name | Type | Summary |
+| --- | --- | --- |
+| [lgbtq.technology](https://lgbtq.technology) | Slack Community | A Slack workspace for LGBTQ+ people. An invite is required and can be requested from the site. |
+| [Queer Coders](https://queercoders.com/) | Online Forum | An online forum and community for LGBTQ+ programmers. |
 
 
 
