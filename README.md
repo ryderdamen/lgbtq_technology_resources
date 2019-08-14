@@ -30,11 +30,12 @@ Organizations that meet up in real life.
 
 | Organization | Location | Summary |
 | --- | --- | --- |
-| [Out In Tech](https://outintech.com/) | New York City, Los Angeles, San Francisco, London, Portland, Chicago, DC, Boston, and Austin | Organization that hosts LGBTQ+ technology meetups. |
+| [Out In Tech](https://outintech.com/) | New York City, Los Angeles, San Francisco, London, Portland, Chicago, Washington DC, Boston, and Austin | Organization that hosts LGBTQ+ technology meetups. |
 | [Venture Out](https://ventureout.ca/) | Toronto | Regular networking events, and an annual conference for networking and job hunting. |
 | [Lesbians Who Tech ](https://lesbianswhotech.org) | New York City | Organization for queer women in tech that hosts an annual summit.  |
 | [ Trans*H4CK ](http://www.transhack.org/) | San Francisco, Boston | An organization creating technology to empower and improve access to resources for trans*, gender non-conforming, agender, and non binary people.  |
-
+| [LGBTQ2+ Launching Into Tech](https://www.meetup.com/en-AU/LGBTQ-Launching-into-Tech/) | Vancouver | A meetup group with the mission to support LGBTQ2+ members of the Vancouver community. |
+| [Out Professionals](https://outprofessionals.org/) | New York City | A LGBTQ networking organization hosting events in New York City. |
 
 
 
@@ -44,6 +45,8 @@ Resources for entrepreneurs, such as accellerators.
 
 | Name | Type | Location | Summary |
 | --- | --- | --- | --- |
-| [StartOut](https://startout.org/) | Organization |San Francisco New York City | Organization supporting LGBTQ+ entrepreneurs |
+| [StartOut](https://startout.org/) | Organization |San Francisco, New York City | Organization supporting LGBTQ+ entrepreneurs |
 | [StartOut - Growth Lab ](https://startout.org/growth-lab/) | Accelerator | San Francisco | Business accelerator for companies with LGBTQ+ co-founders |
 | [TransTech Social Enterprises](https://www.transtechsocial.org/) | Incubator | - | An incubator for LGBTQ+ talent, with a focus on transgender people.|
+| [Gaingels](https://gaingels.com) | Angel Investors | New York, San Francisco, Los Angeles, Toronto, London | Investment vehicle for LGBT gay founders and executives |
+| [NGLCC - National LGBT Chamber of Commerce ](https://www.nglcc.org/) | Organization | Washington, D.C. | An advocacy organization dedicated to expanding economic opportunities and advancements for LGBT people. |
