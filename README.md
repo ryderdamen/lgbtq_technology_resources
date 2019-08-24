@@ -52,3 +52,5 @@ Resources for entrepreneurs, such as accellerators.
 | [TransTech Social Enterprises](https://www.transtechsocial.org/) | Incubator | - | An incubator for LGBTQ+ talent, with a focus on transgender people.|
 | [Gaingels](https://gaingels.com) | Angel Investors | New York, San Francisco, Los Angeles, Toronto, London | Investment vehicle for LGBT gay founders and executives |
 | [NGLCC - National LGBT Chamber of Commerce ](https://www.nglcc.org/) | Organization | Washington, D.C. | An advocacy organization dedicated to expanding economic opportunities and advancements for LGBT people. |
+| [Canadian Gay & Lesbian Chamber of Commerce (CGLCC)](https://www.cglcc.ca) | Organization | Canada | Advocacy organization providing resources and certification to LGBTQ+ owned businesses in Canada. |
+| [CGLCC Supplier Diversity Program](https://www.cglcc.ca/certification/) | Supplier Diversity Certification | Canada | A program that certifies for-profit businesses as LGBTQ+ suppliers: connecting them with customer who would like to do business with them. |
