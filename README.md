@@ -56,3 +56,11 @@ Resources for entrepreneurs, such as accellerators.
 | [NGLCC - National LGBT Chamber of Commerce ](https://www.nglcc.org/) | Organization | Washington, D.C. | An advocacy organization dedicated to expanding economic opportunities and advancements for LGBT people. |
 | [Canadian Gay & Lesbian Chamber of Commerce (CGLCC)](https://www.cglcc.ca) | Organization | Canada | Advocacy organization providing resources and certification to LGBTQ+ owned businesses in Canada. |
 | [CGLCC Supplier Diversity Program](https://www.cglcc.ca/certification/) | Supplier Diversity Certification | Canada | A program that certifies for-profit businesses as LGBTQ+ suppliers: connecting them with customer who would like to do business with them. |
+
+
+## Events
+Recurring events related to LGBTQ+ people in technology.
+
+| Name | Type | Location | Summary |
+| --- | --- | --- | --- |
+| [PrideHacks](https://www.pridehacks.co/) | Hackathon | Montreal | Canada's annual LGBTQ+ hackathon |
