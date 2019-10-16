@@ -39,6 +39,8 @@ Organizations that meet up in real life.
 | [Queer Tech Club](https://www.meetup.com/en-AU/queer-tech-club/) | Chicago | A monthly happy hour for LGBTQ technology professionals from in the Chicago area. |
 | [StartOut ATX](https://www.meetup.com/en-AU/startout-atx/) | Austin | Regular events for LGBTQ+ people in the Austin, Texas area. |
 | [oSTEM](https://www.ostem.org/) | United States, Abroad (90+ Chapters) | An organization empowering LGBTQ people in STEM to succeed personally, academically, and professionally. |
+| [QueerTech](https://www.queertech.ca) | Montreal | QueerTech is the new home for all Queer peoples and their allies in the technology industry. Whether you want to discover, grow, or start your career in Tech we are here for you. |
+
 
 
 ## Entrepreneurial Resources
