@@ -40,8 +40,7 @@ Organizations that meet up in real life.
 | [StartOut ATX](https://www.meetup.com/en-AU/startout-atx/) | Austin | Regular events for LGBTQ+ people in the Austin, Texas area. |
 | [oSTEM](https://www.ostem.org/) | United States, Abroad (90+ Chapters) | An organization empowering LGBTQ people in STEM to succeed personally, academically, and professionally. |
 | [QueerTech](https://www.queertech.ca) | Montreal | QueerTech is the new home for all Queer peoples and their allies in the technology industry. Whether you want to discover, grow, or start your career in Tech we are here for you. |
-
-
+| [Pride in STEM](https://prideinstem.org/) | UK | Pride in STEM is a union of volunteers across the UK who organize events to help increase exposure of LGBTQIA+ people in the STEM fields. |
 
 ## Entrepreneurial Resources
 Resources for entrepreneurs, such as accellerators. 
