@@ -35,6 +35,7 @@ Organizations that meet up in real life.
 | [ Trans*H4CK ](http://www.transhack.org/) | San Francisco, Boston | An organization creating technology to empower and improve access to resources for trans*, gender non-conforming, agender, and non binary people.  |
 | [LGBTQ2+ Launching Into Tech](https://www.meetup.com/en-AU/LGBTQ-Launching-into-Tech/) | Vancouver | A meetup group with the mission to support LGBTQ2+ members of the Vancouver community. |
 | [Out Professionals](https://outprofessionals.org/) | New York City | A LGBTQ networking organization hosting events in New York City. |
+| [QueerJS](https://queerjs.com/)| Different cities in Europe and the US | A meetup series where everyone is encouraged to attend, but where all speakers are queer |
 | [Queer Tech NYC](https://www.meetup.com/en-AU/queer-tech-nyc/)| New York City | A networking and mentorship meetup group in New York City. |
 | [Queer Tech Club](https://www.meetup.com/en-AU/queer-tech-club/) | Chicago | A monthly happy hour for LGBTQ technology professionals from in the Chicago area. |
 | [StartOut ATX](https://www.meetup.com/en-AU/startout-atx/) | Austin | Regular events for LGBTQ+ people in the Austin, Texas area. |
